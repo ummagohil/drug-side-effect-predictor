@@ -7,17 +7,19 @@ A way to search through various different data sources to analyse which drugs wi
 
 ### 👩‍💻Technical Details
 
-Potential Data Sources
-- DrugBank API 
-- OpenFDA API 
-- PubMed API
-  
-Potential Hugging Face Models
-- PubMedBERT or BioBERT for text analysis
-- ChemBERTa for molecular structure analysis
-- DrugBERT for drug interaction prediction
+- React.js
+- Next.js
+- Shadcn/ui
+- TailwindCSS
 
 ### 🔧How to Run the App
 
+```bash
+git clone https://github.com/ummagohil/drugs-side-effect-detector-code.git
+```
 
-### 💭Future Improvements
+### 👀View App
+https://drugs-side-effect-detector.vercel.app/
+
+### 💭Notes
+hello@umma.dev
