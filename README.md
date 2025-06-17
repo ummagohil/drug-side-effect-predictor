@@ -1,5 +1,5 @@
 # 💊 Drugs Side Effect Predictor 
-A way to search through various different data sources to analyse which drugs will have which side effects using Hugging Face models.
+A way to search through various different data sources to analyse which drugs will have which side effects using various APIs.
 
 ### 📋Aims of App
 
